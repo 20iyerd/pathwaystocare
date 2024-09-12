@@ -1,0 +1,18 @@
+.root {
+  position: relative;
+  width: 120px;
+  height: 120px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.avatars3d_avatar_18 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-image:/* webpackIgnore: true */ url('/assets/avatars3d_avatar_18.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

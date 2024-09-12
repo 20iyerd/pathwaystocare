@@ -1,0 +1,19 @@
+.textStrong.textStrong {
+  width: initial;
+  align-self: stretch;
+}
+.root {
+  width: min-content;
+  height: min-content;
+  flex: 1;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+}
+.title {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  padding: 0 0 16px;
+}

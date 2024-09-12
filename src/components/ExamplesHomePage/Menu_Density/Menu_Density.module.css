@@ -1,0 +1,98 @@
+.menuListItem1.menuListItem1 {
+  width: initial;
+  align-self: stretch;
+}
+.content.content {
+  align-items: flex-start;
+}
+.menuListItem2.menuListItem2 {
+  width: initial;
+  align-self: stretch;
+}
+.content2.content2 {
+  align-items: flex-start;
+}
+.menuListItem3.menuListItem3 {
+  width: initial;
+  align-self: stretch;
+}
+.content3.content3 {
+  align-items: flex-start;
+}
+.menuListItem4.menuListItem4 {
+  width: initial;
+  align-self: stretch;
+}
+.content4.content4 {
+  align-items: flex-start;
+}
+.menuListItem5.menuListItem5 {
+  width: initial;
+  align-self: stretch;
+}
+.content5.content5 {
+  align-items: flex-start;
+}
+.menuListItem6.menuListItem6 {
+  width: initial;
+  align-self: stretch;
+}
+.content6.content6 {
+  align-items: flex-start;
+}
+.menuListItem7.menuListItem7 {
+  width: initial;
+  align-self: stretch;
+}
+.content7.content7 {
+  align-items: flex-start;
+}
+.menuListItem8.menuListItem8 {
+  width: initial;
+  align-self: stretch;
+}
+.content8.content8 {
+  align-items: flex-start;
+}
+.menuListItem9.menuListItem9 {
+  width: initial;
+  align-self: stretch;
+}
+.content9.content9 {
+  align-items: flex-start;
+}
+.menuListItem10.menuListItem10 {
+  width: initial;
+  align-self: stretch;
+}
+.content10.content10 {
+  align-items: flex-start;
+}
+.menuListItem11.menuListItem11 {
+  width: initial;
+  align-self: stretch;
+}
+.content11.content11 {
+  align-items: flex-start;
+}
+.menuListItem12.menuListItem12 {
+  width: initial;
+  align-self: stretch;
+}
+.content12.content12 {
+  align-items: flex-start;
+}
+.root {
+  width: 200px;
+  height: min-content;
+  align-items: flex-start;
+  padding: 8px 0;
+  border-radius: 4px;
+  background-color: #f3edf7;
+  box-shadow: 0px 2px 6px 2px #00000026, 0px 1px 2px 0px #0000004d;
+}
+.menuList {
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}

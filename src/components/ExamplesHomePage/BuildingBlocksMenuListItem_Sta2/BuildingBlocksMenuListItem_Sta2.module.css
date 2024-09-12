@@ -1,0 +1,43 @@
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.divider2.divider2 {
+  width: initial;
+  align-self: stretch;
+  padding: 8px 0;
+}
+.divider.divider {
+  position: initial;
+  width: 200px;
+  height: 0;
+}
+.root {
+  width: 200px;
+  height: min-content;
+  flex-direction: column;
+}
+.stateLayer {
+  height: 56px;
+  align-self: stretch;
+  align-items: center;
+  gap: 12px;
+  padding: 8px 12px;
+  background-color: #e8def8;
+}
+.content {
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.labelText {
+  color: #1d192b;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.5px;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}

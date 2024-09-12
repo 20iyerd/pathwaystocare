@@ -1,0 +1,113 @@
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  width: 210px;
+  height: 56px;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 4px 4px 0 0;
+}
+.textField {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  flex-direction: column;
+  outline: solid 3px #65558f;
+  outline-offset: -3px;
+  border-radius: 4px;
+}
+.stateLayer {
+  z-index: 0;
+  flex: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  padding: 4px 0;
+  border-radius: 4px 4px 0 0;
+}
+.content {
+  position: relative;
+  height: 48px;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 4px 0;
+}
+.inputText {
+  position: relative;
+  width: min-content;
+  height: min-content;
+  align-items: center;
+}
+.inputText2 {
+  color: #1d1b20;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.5px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.caret {
+  width: 0;
+  max-width: 100%;
+  height: 16px;
+  max-height: 100%;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.labelText {
+  position: absolute;
+  left: -36px;
+  top: -12px;
+  width: min-content;
+  height: min-content;
+  padding: 0 4px;
+  background-color: #fef7ff;
+}
+.labelText2 {
+  color: #65558f;
+  font-size: 12px;
+  line-height: 16px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.4px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.supportingText {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -20px;
+  width: 210px;
+  height: 20px;
+  align-items: flex-start;
+  padding: 4px 16px 0;
+}
+.supportingText2 {
+  color: #49454f;
+  font-size: 12px;
+  line-height: 16px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.4px;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}

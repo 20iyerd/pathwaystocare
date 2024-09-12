@@ -1,0 +1,24 @@
+.root {
+  width: 320px;
+  height: min-content;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.divider {
+  max-width: 100%;
+  height: 1px;
+  max-height: 100%;
+  align-self: stretch;
+  width: 320px;
+  position: relative;
+}
+.divider::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform-origin: 0 0;
+  transform: translateY(1px) rotate(0deg);
+  height: 0;
+  border-bottom: solid 1px #cac4d0;
+}

@@ -1,0 +1,246 @@
+.textLinkList.textLinkList {
+  width: 262px;
+  flex: initial;
+  align-self: initial;
+}
+.textStrong {
+  color: #1e1e1e;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.listItem {
+  color: #1e1e1e;
+  font-size: 16px;
+  line-height: 140%;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: -41.573%;
+  top: 0;
+  bottom: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.listItem2 {
+  color: #1e1e1e;
+  font-size: 16px;
+  line-height: 140%;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: -12.3596%;
+  top: 0;
+  bottom: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.listItem3 {
+  color: #1e1e1e;
+  font-size: 16px;
+  line-height: 140%;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: -6.7416%;
+  top: 0;
+  bottom: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.listItem4 {
+  color: #1e1e1e;
+  font-size: 16px;
+  line-height: 140%;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: -88.764%;
+  top: 0;
+  bottom: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.listItem5 {
+  color: #1e1e1e;
+  font-size: 16px;
+  line-height: 140%;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 3.3708%;
+  top: 0;
+  bottom: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textLinkList2.textLinkList2 {
+  width: 262px;
+  flex: initial;
+  align-self: initial;
+}
+.textStrong2 {
+  color: #1e1e1e;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.listItem6 {
+  color: #1e1e1e;
+  font-size: 16px;
+  line-height: 140%;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 65.1685%;
+  top: 0;
+  bottom: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.listItem7 {
+  color: #1e1e1e;
+  font-size: 16px;
+  line-height: 140%;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: -17.9775%;
+  top: 0;
+  bottom: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.listItem8 {
+  color: #1e1e1e;
+  font-size: 16px;
+  line-height: 140%;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 31.4607%;
+  top: 0;
+  bottom: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.listItem9 {
+  color: #1e1e1e;
+  font-size: 16px;
+  line-height: 140%;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 3.3708%;
+  top: 0;
+  bottom: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.listItem10 {
+  color: #1e1e1e;
+  font-size: 16px;
+  line-height: 140%;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: -38.2022%;
+  top: 0;
+  bottom: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.root {
+  width: 1200px;
+  height: 290px;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  align-content: flex-start;
+  gap: 16px;
+  padding: 32px 32px 160px;
+  background-color: #fff;
+  overflow: hidden;
+  box-shadow: inset 0px 1px 0px #d9d9d9;
+}
+.title {
+  width: 577px;
+  height: 208px;
+  flex-direction: column;
+}
+.figma {
+  position: relative;
+  height: 208px;
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.pTC_Logo1 {
+  position: absolute;
+  left: 58px;
+  top: 39px;
+  width: 227px;
+  height: 105px;
+  background-image:/* webpackIgnore: true */ url('/assets/pTC_Logo1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.pathwaysToCare {
+  color: #000;
+  font-size: 24px;
+  line-height: 120%;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.02em;
+  position: absolute;
+  left: 135px;
+  top: 144px;
+  width: 214px;
+  height: 41px;
+  justify-content: center;
+  flex-direction: column;
+}
